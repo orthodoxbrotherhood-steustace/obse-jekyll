@@ -20,7 +20,7 @@ title: Home
                 </div>
             </div>
 		</div>
-        <div class="call-to-action-img-wrapper"><img class="call-to-action-img" src="/assets/images/me.png"></div>
+        <div class="call-to-action-img-wrapper"><img class="call-to-action-img" src="assets/images/me.png"></div>
 	</div>
 </div>
 
