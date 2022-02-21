@@ -82,9 +82,9 @@
 
  	.mobile-header .mobile-site-header{
  		display: flex;
- 		width: 100%;
+ 		// width: 100%;
  		padding: 15px;
- 		background: #fff;
+ 		background: transparent;
 /*  		box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); */
  		align-items: center;
  		position: relative;
@@ -117,6 +117,11 @@ button.search-icon, button#toggle-button {
  	#toggle-button span:last-child{
  		margin: 0;
  	}
+
+     .mobile-header {
+        position: fixed;
+        z-index: 99;
+     }
 
  	.mobile-header .mobile-site-header:before{
  		display: none;
@@ -226,6 +231,7 @@ button.search-icon, button#toggle-button {
          padding: 13px 10px;
          border: solid 2px black;
          border-radius: 100px;
+         background-color: white;
      }
 
  	.mobile-menu-wrap .main-navigation ul li .arrow-holder{
