@@ -198,3 +198,99 @@ button:hover {
 //   color: black;
 // }
 
+
+
+/** Mobile View */
+
+@media only screen and (max-width: 600px) { 
+
+/** Call to Action */
+.primary-call-to-action {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.custom-call-to-action {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 24px;
+}
+
+.call-to-action-textbox-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 66.67%;
+  padding: 40px 0px;
+}
+
+.hero-call-to-action-container {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  max-width: 600px;
+}
+
+.call-to-action-container {
+  display: flex;
+  flex-direction: column-reverse;
+  // height: 100vh;
+  max-width: 600px;
+  border: solid 2px gray;
+}
+
+
+.call-to-action-img-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  // width: 100%;
+  // height: 25px;
+}
+
+.call-to-action-img {
+  max-width: 75%
+}
+
+.call-to-action-textbox {
+    margin: 0px 64px;
+  }
+
+.call-to-action-heading {
+  margin: 0 2px 16px 0;
+  line-height: 0.98;
+  letter-spacing: 3.91px;
+  text-align: left;
+//   color: #fff;
+}
+
+.call-to-action-text {
+  margin: 16px 4px 20px 0;
+  line-height: 1.67;
+  letter-spacing: 1.44px;
+  text-align: left;
+//   color: #fff;
+}
+
+.call-to-action-image {
+  background-image: url("http://steustace.com/wp-content/uploads/2021/02/steustace-headerimage-cropped-3.jpeg");
+  background-origin: content-box;
+  background-position: center;
+  margin:0;
+  width: 50%;
+  z-index: 2;
+}
+
+.call-to-action-button {
+
+    background-color: transparent;
+
+}
+
+}
