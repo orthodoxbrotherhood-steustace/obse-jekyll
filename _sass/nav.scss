@@ -228,6 +228,9 @@ button.search-icon, button#toggle-button {
 	 }
      
      .btn-close-wrap {
+		 display: flex;
+			justify-content: center;
+			align-self: center;		 
          padding: 13px 10px;
          border: solid 2px black;
          border-radius: 100px;
