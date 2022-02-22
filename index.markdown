@@ -15,8 +15,8 @@ title: Home
 				    <h1 class="call-to-action-heading">NIKITA NOVIK</h1>
 				    <p class="call-to-action-text">I’m a UX designer. I’m passionate about creating usable digital products. I have worked with incredibly talented people across different companies.</p>
                 <div class="primary-call-to-action-button-wrapper full-width flex-row justify-start">
-                    <button class="primary-call-to-action-button">About</button>
-                    <button class="primary-call-to-action-button">Contact</button>
+                    <a href="https://www.notion.so/nikitanovik/About-964b44222d464ed4a924902f32074c20" target="_blank"><button class="primary-call-to-action-button">About</button></a>
+                    <a href="https://docs.google.com/forms/d/1NL4yvC-AhgPAeEbME9D4LMfWcHEao-N2zV-bxhEI0KI/edit?usp=sharing" target="_blank"><button class="primary-call-to-action-button">Contact</button></a>
                 </div>
             </div>
 		</div>
@@ -82,7 +82,4 @@ title: Home
 </div>
 
 </main>
-
-<!-- Spacer -->
-<div class="double-spacer"></div>
 
