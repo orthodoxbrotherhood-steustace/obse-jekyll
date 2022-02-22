@@ -12,8 +12,8 @@
 // - Call to Action
 //   -
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Muli:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 /** Body */
 body {
@@ -26,13 +26,13 @@ main {
 }
 
 /** Headings */
-h1, h2, h3, h4, h5, h6 { font-weight: 700; font-family: 'Lato', sans-serif; text-transform: uppercase;}
+h1, h2, h3, h4, h5, h6 { font-weight: 700; font-family: 'Libre Baskerville', serif;}
 
 h1 { font-size: 61px;}
 h2 { font-size: 48.83px;}
 
 /** Body Copy */
-p { font-weight: 400; font-family: 'Open Sans', sans-serif; font-size: 18px; }
+p { font-weight: 400; font-family: 'Muli', sans-serif; font-size: 18px; }
 
 /** Lists */
 ul {
@@ -148,7 +148,7 @@ button:hover {
   display: flex;
   flex-direction: row;
   height: 100vh;
-  max-width: 1400px;
+  // max-width: 1400px;
 }
 
 .call-to-action-container {
@@ -213,15 +213,15 @@ button:hover {
 // }
 
 #image-01 {
-  background-image: url("https://lifeexamined.github.io/nikitanovik-portfolio/assets/images/web.jpg");
+  background-image: url("https://orthodoxbrotherhood-steustace.github.io/nikitanovik-portfolio/assets/images/steustace.jpeg");
 }
 
 #image-02 {
-  background-image: url("https://lifeexamined.github.io/nikitanovik-portfolio/assets/images/mobile.jpg");
+  background-image: url("https://orthodoxbrotherhood-steustace.github.io/nikitanovik-portfolio/assets/images/steustace.jpeg");
 }
 
 #image-03 {
-  background-image: url("https://lifeexamined.github.io/nikitanovik-portfolio/assets/images/app.jpg");
+  background-image: url("https://orthodoxbrotherhood-steustace.github.io/nikitanovik-portfolio/assets/images/steustace.jpeg");
 }
 
 /** Mobile View */
