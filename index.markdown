@@ -11,12 +11,12 @@ title: Home
 <div class="primary-call-to-action">
 	<div class="hero-call-to-action-container">
         <div id="image-01" class="call-to-action-image"></div>
-		<div class="call-to-action-textbox-wrapper">
+		<div class="call-to-action-textbox-wrapper black">
             <div class="call-to-action-textbox">
-				    <h1 class="call-to-action-heading">Fight the Good Fight</h1>
-				    <p class="call-to-action-text">I’m a UX designer. I’m passionate about creating usable digital products. I have worked with incredibly talented people across different companies.</p>
+				    <h2 class="call-to-action-heading">Fight the Good Fight</h2>
+				    <p class="call-to-action-text">The Brotherhood of St. Eustace exists to empower its members to conform themselves with greater depth to the image of Christ in them by incorporating each into an environment of solidarity, support and mutual accountability with other, like-minded, men.</p>
                  <div class="full-width flex-row justify-start">
-                    <a href="https://medium.com/@nikita.a.novik/aeroaquaponic-a-ux-case-study-f4706eddd626" target="_blank"><button class="call-to-action-button">Join Us on Forum</button></a>
+                    <a href="https://medium.com/@nikita.a.novik/aeroaquaponic-a-ux-case-study-f4706eddd626" target="_blank"><button class="call-to-action-button black">Join Us on Forum</button></a>
                 </div>
             </div>
 		</div>
