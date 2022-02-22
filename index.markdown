@@ -20,7 +20,7 @@ title: Home
                 </div>
             </div>
 		</div>
-        <div class="call-to-action-img-wrapper"><img class="call-to-action-img" src="assets/images/me.png"></div>
+        <div class="call-to-action-img-wrapper"><img class="call-to-action-img" src="assets/images/Me.png"></div>
 	</div>
 </div>
 
@@ -30,7 +30,7 @@ title: Home
 <!-- Website Design -->
 <div class="custom-call-to-action">
 	<div class="call-to-action-container">
-        <div class="call-to-action-image"></div>
+        <div id="image-01" class="call-to-action-image"></div>
 		<div class="call-to-action-textbox-wrapper">
             <div class="call-to-action-textbox">
 				    <h2 class="call-to-action-heading">Website Design</h2>
@@ -48,7 +48,7 @@ title: Home
 
 <!-- Mobile Design -->
 <div class="custom-call-to-action">
-	<div class="call-to-action-container">
+	<div class="reverse call-to-action-container">
 		<div class="call-to-action-textbox-wrapper">
             <div class="call-to-action-textbox">
 				    <h2 class="call-to-action-heading">Mobile Design</h2>
@@ -58,7 +58,7 @@ title: Home
                 </div>
             </div>
 		</div>
-        <div class="call-to-action-image"></div>
+        <div id="image-02" class="call-to-action-image"></div>
 	</div>
 </div>
 
@@ -68,10 +68,10 @@ title: Home
 <!-- App Design -->
 <div class="custom-call-to-action">
 	<div class="call-to-action-container">
-        <div class="call-to-action-image"></div>
+        <div id="image-03" class="call-to-action-image"></div>
 		<div class="call-to-action-textbox-wrapper">
             <div class="call-to-action-textbox">
-				    <h2 class="call-to-action-heading">Website Design</h2>
+				    <h2 class="call-to-action-heading">App Design</h2>
 				    <p class="call-to-action-text">I’m a UX designer. I’m passionate about creating usable digital products. I have worked with incredibly talented people across different companies.</p>
                 <div class="full-width flex-row justify-start">
                     <button class="call-to-action-button">Read Case Study</button>

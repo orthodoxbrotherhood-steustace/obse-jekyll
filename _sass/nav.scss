@@ -92,16 +92,19 @@
  	}
 
  	#toggle-button{
- 		width: 20px;
+ 		width: 60px;
+		height: 60px;
+		padding: 16px;
  		cursor: pointer;
  	}
 
 button.search-icon, button#toggle-button {
     color: inherit;
-    padding: 0;
+    // padding: 0;
     background: 0 0!important;
     border: 0;
      font-size: 18px;
+	 font-weight: bold;
   -webkit-writing-mode: horizontal-tb !important;
 
 }
@@ -202,7 +205,7 @@ button.search-icon, button#toggle-button {
  	.mobile-menu-wrap .main-navigation{
  		width: 100%;
  		/* margin-top: 60px; */
- 		border-top: 1px solid #EBEBEB;
+ 		// border-top: 1px solid #EBEBEB;
  		/* border-bottom: 1px solid #EBEBEB; */
  		padding: 20px 0 0;
  	}
@@ -231,7 +234,7 @@ button.search-icon, button#toggle-button {
 		 display: flex;
 			justify-content: center;
 			align-self: center;		 
-         padding: 13px 10px;
+        //  padding: 13px 10px;
          border: solid 2px black;
          border-radius: 100px;
          background-color: white;
