@@ -44,6 +44,15 @@ li {
   font-size: 16px;
 }
 
+/** Links */
+a {
+  text-decoration: none;
+}
+
+ul > li > a {
+  color: white;
+}
+
 /** Buttons */
 button {
 
