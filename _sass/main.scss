@@ -44,6 +44,15 @@ li {
   font-size: 16px;
 }
 
+/** Links */
+a {
+  text-decoration: none;
+}
+
+ul > li > a {
+  color: white;
+}
+
 /** Buttons */
 button {
 
@@ -204,15 +213,15 @@ button:hover {
 // }
 
 #image-01 {
-  background-image: url("/assets/images/web.jpg");
+  background-image: url("https://lifeexamined.github.io/nikitanovik-portfolio/assets/images/web.jpg");
 }
 
 #image-02 {
-  background-image: url("/assets/images/mobile.jpg");
+  background-image: url("https://lifeexamined.github.io/nikitanovik-portfolio/assets/images/mobile.jpg");
 }
 
 #image-03 {
-  background-image: url("/assets/images/app.jpg");
+  background-image: url("https://lifeexamined.github.io/nikitanovik-portfolio/assets/images/app.jpg");
 }
 
 /** Mobile View */
