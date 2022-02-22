@@ -15,8 +15,8 @@ title: Home
 				    <h1 class="call-to-action-heading">NIKITA NOVIK</h1>
 				    <p class="call-to-action-text">I’m a UX designer. I’m passionate about creating usable digital products. I have worked with incredibly talented people across different companies.</p>
                 <div class="primary-call-to-action-button-wrapper full-width flex-row justify-start">
-                    <a href="https://www.notion.so/nikitanovik/About-964b44222d464ed4a924902f32074c20" target="_blank"><button class="primary-call-to-action-button">About</button></a>
-                    <a href="https://docs.google.com/forms/d/1NL4yvC-AhgPAeEbME9D4LMfWcHEao-N2zV-bxhEI0KI/edit?usp=sharing" target="_blank"><button class="primary-call-to-action-button">Contact</button></a>
+                    <a href="https://nikitanovik.notion.site/About-964b44222d464ed4a924902f32074c20" target="_blank"><button class="primary-call-to-action-button">About</button></a>
+                    <a href="https://nikitanovik.notion.site/Contact-8a972bed5fc14fca80ec6e739c6b7c79" target="_blank"><button class="primary-call-to-action-button">Contact</button></a>
                 </div>
             </div>
 		</div>
@@ -36,7 +36,7 @@ title: Home
 				    <h2 class="call-to-action-heading">Website Design</h2>
 				    <p class="call-to-action-text">I’m a UX designer. I’m passionate about creating usable digital products. I have worked with incredibly talented people across different companies.</p>
                 <div class="full-width flex-row justify-start">
-                    <button class="call-to-action-button">Read Case Study</button>
+                    <a href="https://medium.com/@nikita.a.novik/aeroaquaponic-a-ux-case-study-f4706eddd626" target="_blank"><button class="call-to-action-button">Read Case Study</button></a>
                 </div>
             </div>
 		</div>
@@ -54,7 +54,7 @@ title: Home
 				    <h2 class="call-to-action-heading">Mobile Design</h2>
 				    <p class="call-to-action-text">I’m a UX designer. I’m passionate about creating usable digital products. I have worked with incredibly talented people across different companies.</p>
                 <div class="full-width flex-row justify-start">
-                    <button class="call-to-action-button">Read Case Study</button>
+                    <a href="https://medium.com/design-bootcamp/schmetterling-music-video-radio-web-app-a-ux-case-study-5e543f520b65" target="_blank"><button class="call-to-action-button">Read Case Study</button></a>
                 </div>
             </div>
 		</div>
@@ -74,7 +74,7 @@ title: Home
 				    <h2 class="call-to-action-heading">App Design</h2>
 				    <p class="call-to-action-text">I’m a UX designer. I’m passionate about creating usable digital products. I have worked with incredibly talented people across different companies.</p>
                 <div class="full-width flex-row justify-start">
-                    <button class="call-to-action-button">Read Case Study</button>
+                    <a href="https://medium.com/design-bootcamp/schmetterling-music-video-radio-web-app-a-ux-case-study-5e543f520b65" target="_blank"><button class="call-to-action-button">Read Case Study</button></a>
                 </div>
             </div>
 		</div>
