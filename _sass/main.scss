@@ -146,7 +146,6 @@ button:hover {
   border: solid 2px gray;
 }
 
-
 .call-to-action-img-wrapper {
   display: flex;
   flex-direction: row;
@@ -180,9 +179,10 @@ button:hover {
 }
 
 .call-to-action-image {
-  background-image: url("http://steustace.com/wp-content/uploads/2021/02/steustace-headerimage-cropped-3.jpeg");
+ 
   background-origin: content-box;
   background-position: center;
+  background-size: cover;
   margin:0;
   width: 50%;
   z-index: 2;
@@ -199,7 +199,17 @@ button:hover {
 //   color: black;
 // }
 
+#image-01 {
+  background-image: url("/assets/images/web.jpg");
+}
 
+#image-02 {
+  background-image: url("/assets/images/mobile.jpg");
+}
+
+#image-03 {
+  background-image: url("/assets/images/app.jpg");
+}
 
 /** Mobile View */
 
@@ -268,6 +278,9 @@ color: white;
   border: solid 2px gray;
 }
 
+.reverse {
+  flex-direction: column !important;
+}
 
 .call-to-action-img-wrapper {
   display: flex;
@@ -327,7 +340,7 @@ color: white;
 .primary-call-to-action-button-wrapper {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
 }
 
