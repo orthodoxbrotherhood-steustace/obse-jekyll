@@ -14,7 +14,7 @@ title: Home
             <div class="call-to-action-textbox">
 				    <h1 class="call-to-action-heading">NIKITA NOVIK</h1>
 				    <p class="call-to-action-text">I’m a UX designer. I’m passionate about creating usable digital products. I have worked with incredibly talented people across different companies.</p>
-                <div class="full-width flex-row justify-start">
+                <div class="primary-call-to-action-button-wrapper full-width flex-row justify-start">
                     <button class="primary-call-to-action-button">About</button>
                     <button class="primary-call-to-action-button">Contact</button>
                 </div>
