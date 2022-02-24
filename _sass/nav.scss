@@ -469,6 +469,8 @@ button.search-icon, button#toggle-button {
  		width: 50%;
  	}
 
+	 .call-to-action-menu-mobile {	display: none; }
+
  	/* .banner .wp-custom-header img{
  		height: 500px;
  	} */
@@ -816,6 +818,30 @@ button.search-icon, button#toggle-button {
  }
 
  @media only screen and (max-width: 600px){
+
+	.mobile-menu-wrap .main-navigation{
+		padding: 56px 0 0;
+	}
+
+	#obse-logo-mobile {
+		max-height: 60px;
+		max-width: 60px;
+	  }
+
+	.call-to-action-menu-mobile {
+		position: absolute;
+    	transform: translateY(-100px);
+		margin-left: 16px;
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+		max-height: 85.347px;
+		padding-top: 30px;
+		padding-bottom: 25px;
+		// background-color: white;
+		z-index: 98;
+	}
 
 	.nav-spacer { height: 86px; }
 
