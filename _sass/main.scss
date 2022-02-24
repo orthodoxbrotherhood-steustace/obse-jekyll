@@ -23,6 +23,7 @@ body {
 
 main {
   margin-bottom: 72px;
+  background-color: #f8f8f8;
 }
 
 /** Headings */
@@ -160,6 +161,7 @@ button:hover {
   align-items: center;
   width: 66.67%;
   padding: 40px 0px;
+  background-color: white;
 }
 
 .black {
@@ -185,8 +187,13 @@ button.black:hover {
   display: flex;
   flex-direction: row;
   // height: 100vh;
-  max-width: 1400px;
-  border: solid 2px gray;
+  // max-width: 1400px;
+  // border: solid 2px gray;
+  box-shadow: 0 8px 6px -6px grey;
+}
+
+.call-to-action-container.secondary {
+  min-height: 670px;
 }
 
 .call-to-action-img-wrapper {
@@ -336,7 +343,7 @@ color: white;
   align-items: center;
   // height: 100vh;
   // max-width: 600px;
-  border: solid 2px gray;
+  border: solid 2px #dfdfdf;
 }
 
 .reverse {
@@ -365,6 +372,7 @@ color: white;
   width: 100%;
   // padding: 12px 0px;
   padding: 0;
+  background-color: white;
 }
 
 .call-to-action-textbox {

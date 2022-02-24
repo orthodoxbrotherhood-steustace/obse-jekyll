@@ -26,12 +26,17 @@
   
   }
 
-  .front-page-card-container > a:hover > .front-page-card > .front-page-card-textbox {
+  .front-page-card-textbox-wrapper {
+    background-color: white;
+  }
+
+  .front-page-card-container > a:hover > .front-page-card > .front-page-card-textbox-wrapper {
     color: white;
     background-color: black;
 
   }
 
+  
   
   .front-page-card {
   display: flex;
@@ -68,19 +73,38 @@
   justify-content: center;
   align-items: center;
   padding: 20px 0px 40px 0px;
-  /* height: 161px; */
+  height: 161px;
   }
   
   .front-page-card-text {
     padding: 0px 21px;  
   }
+
+  @media only screen and (max-width: 1000px) { 
+
+    .front-page-card-wrapper {
+      display: flex;
+      flex-direction: column;
+      max-width: 512px;
+      justify-content: center;
+      align-items: top;
+      }
+
+      .front-page-card-container {
+        margin: 8px;
+        width: 100%;
+        border: solid 2px #dfdfdf;
+      }
+
+  }
+
   
-  @media only screen and (max-width: 8g00px) { 
+  @media only screen and (max-width: 600px) { 
 
     .front-page-card-wrapper {
         display: flex;
         flex-direction: column;
-        max-width: 1400px;
+        max-width: 512px;
         justify-content: center;
         align-items: top;
         }
