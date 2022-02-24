@@ -1,11 +1,31 @@
   /* Collapsible */
+  .call-to-action-textbox-collapsible {
+      width: -webkit-fill-available !important;
+  }
+
+  .collapsible-wrapper-individual {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .collapsible-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
   .collapsible {
     display: flex;
     flex-direction: row;
     /* justify-content: center; */
     align-items: center;
   width: 100%;
-  height: 87px;
+  min-height: 87px;
   flex-grow: 0;
   margin: 10px 0 0;
 /*   padding: 29px 217px 28px 218px; */
@@ -24,13 +44,14 @@
   color: black;
 }
 
-.content {
+.collapsible-content {
   padding: 12px 18px 0px 18px;
   // width: 100%;
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
   z-index: 3;
+  width: -webkit-fill-available;
 }
   
   .active, .collapsible:hover {

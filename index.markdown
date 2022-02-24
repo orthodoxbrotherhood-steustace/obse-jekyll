@@ -17,7 +17,7 @@ title: Home
 						<p class="call-to-action-text">The Brotherhood of St. Eustace exists to empower its members to conform themselves with greater depth to the image of Christ in them by incorporating each into an environment of solidarity, support and mutual accountability with other, like-minded, men.</p>
 						<div class="full-width flex-row justify-start">
 							<a href="https://medium.com/@nikita.a.novik/aeroaquaponic-a-ux-case-study-f4706eddd626" target="_blank">
-								<button class="call-to-action-button black">Join Us on Forum</button>
+								<button class="call-to-action-button black hero-button">Join Us on Forum</button>
 							</a>
 						</div>
 					</div>
@@ -101,21 +101,24 @@ title: Home
 			<div class="call-to-action-container secondary">
 							<div id="image-01" class="call-to-action-image"></div>
 				<div class="call-to-action-textbox-wrapper">
-					<div class="call-to-action-textbox">
+					<div class="call-to-action-textbox call-to-action-textbox-collapsible">
 						<h2 class="call-to-action-heading">Strong Orthodox Community</h2>
+							<div class="collapsible-wrapper">
+							<div class="collapsible-wrapper-individual">
 						<button type="button" class="collapsible"><i class="fa fa-angle-down"></i><div class="read-more-text">WHAT IS ORTHODOX BROTHERHOOD OF ST. EUSTACE</div></button>
-	<div class="content">
+	<div class="collapsible-content">
 	<p>The Orthodox Brotherhood of St. Eustace (OBSE) is a lay, pan-orthodox men’s society of the Eastern Orthodox Church whose purpose is, first and foremost, to connect and encourage Orthodox Christian men to take an active and disciplined approach to developing and living out their faith. <a href="https://steustace.com/mission-statement/">Read more...</a></p>
-	</div>
+	</div></div>
+	<div class="collapsible-wrapper">
 	<button type="button" class="collapsible"><i class="fa fa-angle-down"></i><div class="read-more-text">HOW TO CREATE A BROTHERHOOD CHAPTER AT MY CHURCH</div></button>
-	<div class="content">
+	<div class="collapsible-content">
 	<p>Ask us how. <a href="https://steustace.com/contact-us/">Contact us.</a></p>
-	</div>
-	<button type="button" class="collapsible"><i class="fa fa-angle-down"></i><div class="read-more-text">WHAT IS OUR MISSION</div></button>
-	<div class="content">
+	</div></div>
+	<div class="collapsible-wrapper"><button type="button" class="collapsible"><i class="fa fa-angle-down"></i><div class="read-more-text">WHAT IS OUR MISSION</div></button>
+	<div class="collapsible-content">
 	<p>As a natural consequence of this self-development, the OBSE, secondarily, seeks to facilitate and bring fresh energy to the Church’s historic mission delivered by our Lord, Jesus Christ, to his apostles to “Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you…” <a href="https://steustace.com/mission-statement/">Read more...</a></p>
-	</div>
-				</div>
+	</div></div>
+				</div></div>
 				</div>
 			</div>
 		</div>
