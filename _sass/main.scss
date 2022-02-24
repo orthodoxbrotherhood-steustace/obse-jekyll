@@ -27,7 +27,9 @@ main {
 }
 
 /** Headings */
-h1, h2, h3, h4, h5, h6 { font-weight: 700; font-family: 'Libre Baskerville', serif;}
+h1, h2,   { font-weight: 700; font-family: 'Libre Baskerville', serif;}
+
+h3, h4, h5, h6 {font-weight: 700; font-family: 'Muli', sans-serif;}
 
 h1 { font-size: 61px;}
 h2 { font-size: 48.83px;}
@@ -52,6 +54,12 @@ a {
 
 ul > li > a {
   color: white;
+}
+
+/** Images */
+.img-icon {
+  width: 40px;
+  height: 40px;
 }
 
 /** Buttons */
@@ -133,6 +141,16 @@ button.hero-button:hover {
 }
 
 /** Call to Action */
+.call-to-action-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  min-height: 85.347;
+  padding-top: 30px;
+  padding-bottom: 25px;
+}
+
 .primary-call-to-action-wrapper {
   display: flex;
   flex-direction: column;
@@ -184,7 +202,7 @@ button.black:hover {
 .hero-call-to-action-container {
   display: flex;
   flex-direction: row;
-  height: calc(100vh - 56px);
+  height: calc(100vh - 172px);
   // max-width: 1400px;
 }
 
@@ -310,6 +328,10 @@ color: white;
 }
 
 /** Call to Action */
+
+.call-to-action-menu {
+  display: none;
+}
 
 .call-to-action-divider {
   display: flex;
