@@ -8,8 +8,9 @@ title: Home
 	<!-- Hero Call-to-Action -->
 	<div class="primary-call-to-action-wrapper">
 			<div class="call-to-action-menu">
-			<h3>
-			WHAT IS THE ORTHODOX BROTHERHOOD OF ST. EUSTACE?
+			<img id="obse-logo" src="assets/images/OBSE-logo.png">
+			<h3 class="head-title">
+			Orthodox Brotherhood of St. Eustace
 		</h3> </div>
 		<div class="primary-call-to-action">
 			<div class="hero-call-to-action-container">
@@ -30,10 +31,12 @@ title: Home
 		</div>
 		<!-- Devider -->
 		<div class="call-to-action-divider">
-			<h3>
+			<h5>
 			WHAT IS THE ORTHODOX BROTHERHOOD OF ST. EUSTACE?
-		</h3> </div>
+		</h5> </div>
 	</div>
+	<!-- Spacer -->
+	<div class="five-spacer"></div>
 	<!-- Cards -->
 	<div class="front-page-card-area">
 		<div class="front-page-card-wrapper">
@@ -43,7 +46,7 @@ title: Home
 						<div class="front-page-card-image image-1"> </div>
 						<div class="front-page-card-textbox-wrapper">
 							<div class="front-page-card-textbox">
-								<h3 class="front-page-card-title">RESOURCES</h3>
+								<h4 class="front-page-card-title">RESOURCES</h4>
 								<div class="front-page-card-text">
 									<p>We offer a collection of useful resources which can help you learn more about the Orthodox Christianity</p>
 								</div>
@@ -58,7 +61,7 @@ title: Home
 						<div class="front-page-card-image image-2"> </div>
 						<div class="front-page-card-textbox-wrapper">
 							<div class="front-page-card-textbox">
-								<h3 class="front-page-card-title">WEEKLY MEETINGS</h3>
+								<h4 class="front-page-card-title">WEEKLY MEETINGS</h4>
 								<div class="front-page-card-text">
 									<p>Our brothers meet weekly to discuss projects and to work. Also, we have a book study group once a month. Learn more...</p>
 								</div>
@@ -73,7 +76,7 @@ title: Home
 						<div class="front-page-card-image image-3"> </div>
 						<div class="front-page-card-textbox-wrapper">
 							<div class="front-page-card-textbox">
-								<h3 class="front-page-card-title">FORUM</h3>
+								<h4 class="front-page-card-title">FORUM</h4>
 								<div class="front-page-card-text">
 									<p>For the purpose of communication we use forum. Here we share materials and have discussions. Join us on forum today!</p>
 								</div>

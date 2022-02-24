@@ -27,12 +27,20 @@ main {
 }
 
 /** Headings */
-h1, h2,   { font-weight: 700; font-family: 'Libre Baskerville', serif;}
+h1, h2, h3  { font-weight: 700; font-family: 'Libre Baskerville', serif;}
 
-h3, h4, h5, h6 {font-weight: 700; font-family: 'Muli', sans-serif;}
+h4, h5, h6 {font-weight: 700; font-family: 'Muli', sans-serif; margin: 8px;}
 
-h1 { font-size: 61px;}
-h2 { font-size: 48.83px;}
+h1 { font-size: 61px; line-height: 56px; }
+h2 { font-size: 48.83px; line-height: 45px;}
+h3 { font-size: 39.06px; line-height: 35px; }
+h4 { font-size: 31.25px; line-height: 30px;}
+h5 { font-size: 25.00px; line-height: 25px;}
+h6 { font-size: 20.00px; line-height: 20px;}
+
+h3.head-title {
+  font-weight: 400 !important;
+}
 
 /** Body Copy */
 p { font-weight: 400; font-family: 'Muli', sans-serif; font-size: 18px; }
@@ -57,6 +65,12 @@ ul > li > a {
 }
 
 /** Images */
+
+#obse-logo {
+  max-height: 100px;
+  max-width: 100px;
+}
+
 .img-icon {
   width: 40px;
   height: 40px;
@@ -146,9 +160,11 @@ button.hero-button:hover {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  min-height: 85.347;
+  max-height: 85.347px;
   padding-top: 30px;
   padding-bottom: 25px;
+  background-color: white;
+  z-index: 98;
 }
 
 .primary-call-to-action-wrapper {
@@ -163,6 +179,8 @@ button.hero-button:hover {
   align-items: center;
   min-height: 56px;
   padding: 0% 5%;
+  background-color: white;
+  z-index: 98;
 }
 
 .primary-call-to-action {
@@ -202,7 +220,7 @@ button.black:hover {
 .hero-call-to-action-container {
   display: flex;
   flex-direction: row;
-  height: calc(100vh - 172px);
+  height: calc(100vh - 196px);
   // max-width: 1400px;
 }
 
