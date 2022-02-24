@@ -1,6 +1,8 @@
 /*--------------------------------------------------------------
 ## Menus
 --------------------------------------------------------------*/
+
+
 .main-navigation {
 	width: 60%;
 }
@@ -814,6 +816,9 @@ button.search-icon, button#toggle-button {
  }
 
  @media only screen and (max-width: 600px){
+
+	.nav-spacer { height: 86px; }
+
 	 .instagram-section ul li{width: 50%;}
 	 
 	 .mobile-header .mobile-site-header .tools .search-icon.close {
