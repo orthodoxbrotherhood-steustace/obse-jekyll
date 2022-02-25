@@ -98,7 +98,7 @@ title: Home
 						<p class="call-to-action-text">Brothers of the OBSE prepare themselves to take an active role in serving the needs of the Church, their parish, their families and the immediate community of which they are a part. By developing individual members of the parish, the OBSE seeks to promote and invigorate an Orthodox way of life that is lived profoundly and visibly to the outside world.</p>
 					</div>
 				</div>
-				<div id="image-01" class="call-to-action-image"></div>
+				<div id="image-02" class="call-to-action-image"></div>
 			</div>
 		</div>
 		<!-- Spacer -->
@@ -106,7 +106,7 @@ title: Home
 				<!-- Strong Orthodox Community -->
 		<div class="custom-call-to-action">
 			<div class="call-to-action-container secondary">
-							<div id="image-01" class="call-to-action-image"></div>
+							<div id="image-03" class="call-to-action-image"></div>
 				<div class="call-to-action-textbox-wrapper">
 					<div class="call-to-action-textbox call-to-action-textbox-collapsible">
 						<h2 class="call-to-action-heading">FAQ</h2>
