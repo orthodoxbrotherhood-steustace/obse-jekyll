@@ -425,6 +425,7 @@ color: white;
 
 .call-to-action-textbox {
     margin: 24px 24px;
+    width: -webkit-fill-available !important;
   }
 
 .call-to-action-heading {
