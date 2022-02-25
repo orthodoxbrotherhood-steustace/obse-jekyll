@@ -19,16 +19,19 @@
   
   .footer-column-one {
     color: white;
+    margin: 0px 12px;
   }
   
   .footer-column-two {
     color: white;
+    margin: 0px 12px;
   }
   
   .footer-column-three {
     color: white;
+    margin: 0px 12px;
   }
-  
+
   .footer-column-four {
     display: flex;
     flex-direction: column;
@@ -137,7 +140,8 @@
     
     .footer-column-four {
       width: 90%;
-      padding: 22px;
+      padding: 26px 22px ;
+      margin-top: 40px;
       border: solid 2px white;
       color: white;
     }
