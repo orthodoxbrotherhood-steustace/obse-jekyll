@@ -41,7 +41,7 @@ title: Home
 	<div class="front-page-card-area">
 		<div class="front-page-card-wrapper">
 			<div class="front-page-card-container">
-				<a href="https://steustace.notion.site/Resources-13c139f6b94e45fdaf29639a68f87f91">
+				<a href="https://steustace.com/resources/">
 					<div class="front-page-card">
 						<div class="front-page-card-image image-1"> </div>
 						<div class="front-page-card-textbox-wrapper">
@@ -56,7 +56,7 @@ title: Home
 				</a>
 			</div>
 			<div class="front-page-card-container">
-				<a href="https://steustace.notion.site/Weekly-Meetings-748af30ef792498d9533482eee315a59">
+				<a href="https://steustace.com/weekly-meetings/">
 					<div class="front-page-card">
 						<div class="front-page-card-image image-2"> </div>
 						<div class="front-page-card-textbox-wrapper">
@@ -114,16 +114,16 @@ title: Home
 							<div class="collapsible-wrapper-individual">
 						<button type="button" class="collapsible"><i class="fa fa-angle-down"></i><div class="read-more-text">WHAT IS ORTHODOX BROTHERHOOD OF ST. EUSTACE</div></button>
 	<div class="collapsible-content">
-	<p>The Orthodox Brotherhood of St. Eustace (OBSE) is a lay, pan-orthodox men’s society of the Eastern Orthodox Church whose purpose is, first and foremost, to connect and encourage Orthodox Christian men to take an active and disciplined approach to developing and living out their faith. <a href="https://steustace.notion.site/About-a43cb9a1af3849b29a3bcedb2405b53c" target="_blank">Read more...</a></p>
+	<p>The Orthodox Brotherhood of St. Eustace (OBSE) is a lay, pan-orthodox men’s society of the Eastern Orthodox Church whose purpose is, first and foremost, to connect and encourage Orthodox Christian men to take an active and disciplined approach to developing and living out their faith. <a href="https://steustace.com/statement-of-faith/" target="_blank">Read more...</a></p>
 	</div></div>
 	<div class="collapsible-wrapper">
 	<button type="button" class="collapsible"><i class="fa fa-angle-down"></i><div class="read-more-text">HOW TO CREATE A BROTHERHOOD CHAPTER AT MY CHURCH</div></button>
 	<div class="collapsible-content">
-	<p>Ask us how. <a href="https://steustace.notion.site/Contact-6738c0f8fee94b9aba519b2a01dfe5c5" target="_blank">Contact us.</a></p>
+	<p>Ask us how. <a href="https://steustace.com/contact-us/" target="_blank">Contact us.</a></p>
 	</div></div>
 	<div class="collapsible-wrapper"><button type="button" class="collapsible"><i class="fa fa-angle-down"></i><div class="read-more-text">WHAT IS OUR MISSION</div></button>
 	<div class="collapsible-content">
-	<p>As a natural consequence of this self-development, the OBSE, secondarily, seeks to facilitate and bring fresh energy to the Church’s historic mission delivered by our Lord, Jesus Christ, to his apostles to “Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you…” <a href="https://steustace.notion.site/About-a43cb9a1af3849b29a3bcedb2405b53c" target="_blank">Read more...</a></p>
+	<p>As a natural consequence of this self-development, the OBSE, secondarily, seeks to facilitate and bring fresh energy to the Church’s historic mission delivered by our Lord, Jesus Christ, to his apostles to “Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you…” <a href="https://steustace.com/mission-statement/" target="_blank">Read more...</a></p>
 	</div></div>
 				</div></div>
 				</div>
